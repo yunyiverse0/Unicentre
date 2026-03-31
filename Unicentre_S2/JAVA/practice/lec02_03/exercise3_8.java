@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Randem;
 
 public class Main {
 	public static void main(String[] arg) {
