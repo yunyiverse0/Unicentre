@@ -1,8 +1,7 @@
-package lec02_03;
 import java.util.Scanner;
 import java.util.Random;
 
-public class p35 {
+public class Main {
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);
         Random rd = new Random();
